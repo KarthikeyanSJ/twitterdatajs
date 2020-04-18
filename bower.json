@@ -1,0 +1,23 @@
+{
+  "name": "twitter-data",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Karthikeyan"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sass-bootstrap": "~3.0.2"
+  }
+}
